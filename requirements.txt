@@ -14,7 +14,7 @@ Flask-Login==0.4.1
 Flask-Migrate==2.1.1
 Flask-SQLAlchemy==2.3.2
 Flask-WTF==0.14.2
-html5lib==0.999
+html5lib==0.999999999
 itsdangerous==0.24
 Jinja2==2.10
 language-selector==0.1
